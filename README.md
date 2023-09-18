@@ -18,9 +18,7 @@ Olá! Sou um entusiasta de programação e apaixonado por tecnologia. Minha traj
 
 ## Estatísticas e Atividades
 
-<figure>
-  <embed src="https://wakatime.com/share/@AlissonSProjects/2346b607-dd68-4d4f-b937-2b27245b46ff.svg"></embed>
-</figure>
+[![wakatime](https://wakatime.com/badge/user/b5e8c58a-83ae-45ce-b9d0-73cb3da0dfae/project/81cdf5fa-e232-4abf-921d-b29c46d86fcd.svg)](https://wakatime.com/badge/user/b5e8c58a-83ae-45ce-b9d0-73cb3da0dfae/project/81cdf5fa-e232-4abf-921d-b29c46d86fcd)
 
 <div>
   <a href="https://github.com/AlissonSProjects">
